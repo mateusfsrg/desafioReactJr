@@ -37,9 +37,8 @@ Este repositório contém a implementação de um desafio técnico para uma vaga
    yarn dev
    ```
 5. Acesse no navegador:
-   ```
-http://localhost:5173
-```
+   ```bash
+   http://localhost:5173
 
 ## 📎 Meu LinkedIn
 [Mateus Souza](https://www.linkedin.com/in/mateusfsrgsouza/)
